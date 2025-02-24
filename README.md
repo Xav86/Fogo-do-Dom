@@ -1,4 +1,4 @@
-# Pixel Arte de Fogo (fogo do Dom) em Js
+# Pixel Arte de Fogo (fogo do Doom) em Js
 
 um mine projeto onde fiz um fogo com js seguindo os passos do video do [Felipe](https://youtu.be/fxm8cadCqbs?si=bkCJAxp5q9qQR36c), onde ele ensinou a fazer esse fogo em js.
 
